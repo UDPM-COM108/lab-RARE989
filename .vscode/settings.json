@@ -2,6 +2,15 @@
     "files.associations": {
         "demo.C": "cpp",
         "khaibaobien.C": "cpp",
-        "hello.C": "cpp"
-    }
+        "hello.C": "cpp",
+        "bai2.C": "cpp",
+        "nhap.C": "cpp",
+        "bai3.C": "cpp",
+        "bai1.C": "cpp",
+        "bai4.C": "cpp",
+        "Lab2main.C": "cpp",
+        "bai5.C": "cpp",
+        "bai5,2.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
